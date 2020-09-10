@@ -1,0 +1,58 @@
+SUMLEV,REGION,DIVISION,STATE,NAME,POPESTIMATE2018
+10,0,0,0,United States,1026771.00
+20,1,0,0,Northeast Region,14027769.75
+20,2,0,0,Midwest Region,17077186.00
+20,3,0,0,South Region,31188487.00
+20,4,0,0,West Region,19498415.75
+40,3,6,1,Alabama,6687.00
+40,4,9,2,Alaska,351.00
+40,4,8,4,Arizona,6948.00
+40,3,7,5,Arkansas,3069.00
+40,4,9,6,California,45218.00
+40,4,8,8,Colorado,13879.00
+40,1,1,9,Connecticut,25997.00
+40,3,5,10,Delaware,4575.00
+40,3,5,11,District of Columbia,3994.00
+40,3,5,12,Florida,32846.00
+40,3,5,13,Georgia,24606.00
+40,4,9,15,Hawaii,607.00
+40,4,8,16,Idaho,1917.00
+40,2,3,17,Illinois,48102.00
+40,2,3,18,Indiana,16588.00
+40,2,4,19,Iowa,6376.00
+40,2,4,20,Kansas,3296.00
+40,3,6,21,Kentucky,4146.00
+40,3,7,22,Louisiana,27286.00
+40,1,1,23,Maine,1040.00
+40,3,5,24,Maryland,20113.00
+40,1,1,25,Massachusetts,56462.00
+40,2,3,26,Michigan,39262.00
+40,2,4,27,Minnesota,4181.00
+40,3,6,28,Mississippi,6342.00
+40,2,4,29,Missouri,7303.00
+40,4,8,30,Montana,451.00
+40,2,4,31,Nebraska,3358.00
+40,4,8,32,Nevada,4805.00
+40,1,1,33,New Hampshire,1938.00
+40,1,2,34,New Jersey,113856.00
+40,4,8,35,New Mexico,2823.00
+40,1,2,36,New York,300334.00
+40,3,5,37,North Carolina,9674.00
+40,2,4,38,North Dakota,991.00
+40,2,3,39,Ohio,16769.00
+40,3,7,40,Oklahoma,3410.00
+40,4,9,41,Oregon,2354.00
+40,1,2,42,Pennsylvania,43264.00
+40,1,1,44,Rhode Island,7926.00
+40,3,5,45,South Carolina,5613.00
+40,2,4,46,South Dakota,2245.00
+40,3,6,47,Tennessee,10052.00
+40,3,7,48,Texas,26171.00
+40,4,8,49,Utah,4343.00
+40,1,1,50,Vermont,862.00
+40,3,5,51,Virginia,14339.00
+40,4,9,53,Washington,13686.00
+40,3,5,54,West Virginia,1077.00
+40,2,3,55,Wisconsin,6289.00
+40,4,8,56,Wyoming,520.00
+40,X,X,72,Puerto Rico,1400.00
